@@ -80,7 +80,44 @@ const amritsarContent = {
   `,
   
   "Jallianwala Bagh Massacre – A Deep Dive": `
-    On April 13, 1919 (Baisakhi day), Brigadier-General Reginald Dyer ordered troops to fire on 15,000+ unarmed civilians protesting the Rowlatt Act. Official records state 379 deaths, but actual toll exceeded 1,000. The 7-acre garden had only one narrow exit, trapping victims. Bullet marks are still visible on walls. Udham Singh, who witnessed the massacre, later assassinated Michael O'Dwyer in London (1940) as revenge. The well into which people jumped to escape bullets is preserved. Rabindranath Tagore renounced his knighthood in protest. The event became a turning point in India's freedom struggle, radicalizing leaders like Nehru and Gandhi.
+    The Jallianwala Bagh Massacre, also known as the Amritsar Massacre, stands as one of the darkest and most shameful episodes in the history of British colonial rule in India. Occurring on April 13, 1919, this tragedy marked a brutal turning point in India’s struggle for independence. It not only revealed the violent underpinnings of British authority but also became a catalyst that radicalized the Indian national movement. The massacre shook the conscience of the world and triggered widespread outrage, uniting Indians across regions and religions in their demand for self-rule.
+
+Historical Context
+To understand the massacre, it is essential to examine the political and social climate of British India during the early 20th century. The First World War (1914–1918) had just concluded, and India, as part of the British Empire, had contributed both soldiers and resources. Over 1.3 million Indian soldiers served abroad, and thousands lost their lives. In return, Indians hoped for greater autonomy and political reforms. However, instead of rewarding Indian loyalty, the British colonial government imposed even more repressive laws.
+
+One such repressive measure was the Rowlatt Act of 1919, officially known as the Anarchical and Revolutionary Crimes Act. This law authorized the government to arrest and detain individuals without trial, suppress the press, and curtail civil liberties. It was widely condemned by Indian leaders and the general public. Mahatma Gandhi launched a nationwide protest against the act, calling for Satyagraha—a peaceful civil disobedience movement. In Punjab, especially in Amritsar, the agitation grew intense. Local leaders like Dr. Saifuddin Kitchlew and Dr. Satyapal led mass protests against the Rowlatt Act.
+
+The Build-Up to the Massacre
+On April 10, 1919, the British authorities arrested Kitchlew and Satyapal and deported them without explanation. This action triggered large-scale protests in Amritsar. Demonstrations turned violent in some areas, and British officials responded with force. In response, Brigadier-General Reginald Edward Harry Dyer was dispatched to restore "order" in Amritsar. Dyer viewed the peaceful protestors not as civilians exercising their rights, but as threats to colonial authority.
+
+Amidst this tense atmosphere, a public meeting was scheduled for April 13, 1919, coinciding with Baisakhi, a major Punjabi festival. Thousands of people, many of whom were unaware of the government ban on public gatherings, gathered at Jallianwala Bagh, a public garden surrounded by walls with only a few narrow entrances. It was a peaceful congregation of over 15,000 people, including men, women, and children, who had assembled to protest the Rowlatt Act and express solidarity against colonial repression.
+
+The Massacre
+Without issuing any warning, General Dyer marched into Jallianwala Bagh with a contingent of about 90 soldiers, including Gurkha and Baluchi troops. He positioned his men at the main entrance and ordered them to open fire directly into the crowd. The troops fired continuously for about ten minutes, discharging 1,650 rounds of ammunition until they ran out of bullets. The narrow exits were blocked, and there was no way for people to escape. Panic and chaos ensued as people tried to flee. Many jumped into a well inside the garden to escape the bullets—nearly 120 bodies were later recovered from it.
+
+Official British estimates reported 379 deaths and over 1,200 injured, but Indian nationalists and the Indian National Congress claimed the death toll was over 1,000, with more than 2,000 injured. The sheer brutality of the attack, carried out without warning or provocation, shocked the entire nation. Dyer later admitted he intended to produce a "moral effect" and punish the people of Amritsar to deter future protests.
+
+Aftermath and Reactions
+The massacre sent shockwaves across India and the world. The British government, instead of immediately condemning Dyer, at first supported his actions. However, the widespread criticism forced them to launch an official inquiry—the Hunter Commission. The commission, however, failed to deliver justice. Though it condemned Dyer’s actions as unjustified, it did not impose any punishment on him. Instead, Dyer was allowed to resign and return to England, where he was hailed as a hero by many in Britain. A fund was even raised to reward him, collecting over £26,000—an amount that revealed the colonial mindset still prevalent in British society.
+
+In India, the response was one of national mourning and growing anger. Rabindranath Tagore, Nobel laureate and one of India’s most respected intellectuals, returned his knighthood in protest, stating that "the time has come when badges of honour make our shame glaring in the incongruous context of humiliation." The massacre radicalized many moderate leaders who had previously supported constitutional reforms. Jawaharlal Nehru and Mahatma Gandhi were among those profoundly affected by the massacre. Gandhi abandoned his belief in the possibility of cooperation with the British and instead focused on achieving complete independence or Purna Swaraj.
+
+One of the most dramatic responses came from Udham Singh, a young man who witnessed the massacre as a child. Deeply scarred by the event, he vowed revenge. Over two decades later, on March 13, 1940, he assassinated Michael O'Dwyer, the former Lieutenant Governor of Punjab who had endorsed Dyer’s actions, in London’s Caxton Hall. Udham Singh was tried and hanged, but in India, he was hailed as a national hero.
+
+Legacy and Significance
+The Jallianwala Bagh Massacre marked a decisive turning point in India’s freedom struggle. It exposed the inherent violence and racism of colonial rule and shattered any remaining illusions of fairness or justice under British governance. The incident unified Indians across caste, class, and religious lines in their collective demand for independence.
+
+It also contributed significantly to the evolution of the Non-Cooperation Movement, led by Gandhi in the early 1920s. The event planted seeds of discontent that would later culminate in mass movements like the Civil Disobedience Movement and the Quit India Movement. Leaders across the ideological spectrum, from moderates to revolutionaries, drew inspiration from the martyrdom of those who died at Jallianwala Bagh.
+
+In the post-independence era, the site of the massacre was converted into a national memorial. The bullet marks on the walls and the preserved Martyrs’ Well serve as stark reminders of the tragedy. The Jallianwala Bagh National Memorial, established in 1951, is visited by millions every year. It continues to educate generations about the price of freedom and the horrors of colonial oppression.
+
+Continuing Relevance
+The Jallianwala Bagh Massacre remains a symbol of colonial injustice and the resilience of the Indian spirit. In recent years, calls for a formal apology from the British government have grown stronger. While British leaders have expressed “regret” and termed the event as a "shameful scar," a full formal apology has not yet been issued. This reluctance reflects the ongoing struggle to fully acknowledge and come to terms with the brutal legacy of empire.
+
+In 2019, marking the centenary of the massacre, British Prime Minister Theresa May expressed "deep regret," and Prince Charles visited the site. Yet, critics argue that these symbolic gestures fall short of true accountability. For India, the memory of Jallianwala Bagh continues to be a powerful reminder of the sacrifices made for independence and the necessity of preserving democratic values and human rights.
+
+Conclusion
+The Jallianwala Bagh Massacre was more than a horrific event; it was a watershed moment in Indian history. It exposed the brutal face of imperialism and galvanized a nation to demand its rightful freedom. The massacre turned ordinary citizens into freedom fighters, transformed moderate leaders into revolutionaries, and converted a garden into a memorial of resistance and sacrifice. As India continues to grow and evolve, the memory of Jallianwala Bagh reminds us of the cost of freedom and the importance of justice, dignity, and national unity.
   `,
   
   "Partition and 1947 Impact": `
@@ -189,49 +226,49 @@ const Punjab = () => {
   
 		{/* Sidebar */}
 		<aside
-		  className={`md:w-1/4 w-full bg-white border-r px-4 py-6 shadow-sm z-10 transition-all duration-300 ${
-			isMenuOpen ? "block" : "hidden"
-		  } md:block`}
-		>
-		  <h2 className="text-2xl font-bold mb-4 text-[#2E3A59]">Districts</h2>
-		  <ul className="space-y-2">
-			{districts.map((district) => (
-			  <div key={district}>
-				<li
-				  className={`cursor-pointer px-3 py-2 rounded-md transition-all duration-300 ${
-					selectedDistrict === district
-					  ? "bg-orange-600 text-white font-semibold"
-					  : "hover:bg-orange-100"
-				  }`}
-				  onClick={() => handleDistrictClick(district)}
-				>
-				  {district}
-				</li>
-  
-				{district === "Amritsar" && isAmritsarExpanded && (
-				  <ul className="ml-4 mt-2 space-y-1">
-					{amritsarTopics.map((topic, idx) => (
-					  <li
-						key={idx}
-						onClick={(e) => {
-						  e.stopPropagation();
-						  handleTopicClick(topic);
-						}}
-						className={`text-sm cursor-pointer px-2 py-1 rounded-md ${
-						  selectedTopic === topic
-							? "text-white bg-orange-400"
-							: "hover:text-orange-600"
-						}`}
-					  >
-						{topic}
-					  </li>
-					))}
-				  </ul>
-				)}
-			  </div>
-			))}
-		  </ul>
-		</aside>
+  className={`md:w-1/4 w-full bg-white border-r px-4 py-6 shadow-sm z-10 transition-all duration-300 ${
+    isMenuOpen ? "block fixed inset-0 overflow-y-auto" : "hidden"
+  } md:block md:sticky md:top-0 md:h-screen md:overflow-y-auto`}
+>
+  <h2 className="text-2xl font-bold mb-4 text-[#2E3A59]">Districts</h2>
+  <ul className="space-y-2">
+    {districts.map((district) => (
+      <div key={district}>
+        <li
+          className={`cursor-pointer px-3 py-2 rounded-md transition-all duration-300 ${
+            selectedDistrict === district
+              ? "bg-orange-600 text-white font-semibold"
+              : "hover:bg-orange-100"
+          }`}
+          onClick={() => handleDistrictClick(district)}
+        >
+          {district}
+        </li>
+
+        {district === "Amritsar" && isAmritsarExpanded && (
+          <ul className="ml-4 mt-2 space-y-1">
+            {amritsarTopics.map((topic, idx) => (
+              <li
+                key={idx}
+                onClick={(e) => {
+                  e.stopPropagation();
+                  handleTopicClick(topic);
+                }}
+                className={`text-sm cursor-pointer px-2 py-1 rounded-md ${
+                  selectedTopic === topic
+                    ? "text-white bg-orange-400"
+                    : "hover:text-orange-600"
+                }`}
+              >
+                {topic}
+              </li>
+            ))}
+          </ul>
+        )}
+      </div>
+    ))}
+  </ul>
+</aside>
   
 		{/* Main Content */}
 		<main className="flex-1 px-6 py-10 space-y-10">
